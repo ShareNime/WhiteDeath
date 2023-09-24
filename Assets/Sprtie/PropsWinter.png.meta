@@ -1,0 +1,3212 @@
+fileFormatVersion: 2
+guid: 8c3f9a7775e1836438d92c5d7aa1dd2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PropsWinter_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2338
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3fe3f5196cfe439cac32d1d094090
+      internalID: -330733797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2202
+        width: 136
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562525b9b02166c43bd6f48578efae52
+      internalID: 1279424218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2217
+        width: 176
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a10e73f8f237d641838f4b83d06832f
+      internalID: 794558395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_3
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1817
+        width: 330
+        height: 561
+      alignment: 9
+      pivot: {x: 0.64196295, y: 0.33142045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 70.06665, y: -92.65564}
+        - {x: 23.529175, y: -94.36389}
+        - {x: 25.696655, y: -101.98352}
+        - {x: 65.83557, y: -100.96704}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a37e24e7da23b4c918ad2e951eae44
+      internalID: 1295836069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_4
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1722
+        width: 234
+        height: 634
+      alignment: 9
+      pivot: {x: 0.61268395, y: 0.34865803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 45.82373, y: -93.33057}
+        - {x: 9.970337, y: -95.04895}
+        - {x: 11.436279, y: -101.97107}
+        - {x: 45.128174, y: -102.73279}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37120962c5a4d459b99e1bfec68703
+      internalID: 501759639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_5
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 2209
+        width: 55
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52171963917d79546af5a00af6cdfb3b
+      internalID: -2144263479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_6
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 2228
+        width: 69
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c0341bd8af99e4a96ed0438852f0bd
+      internalID: 844968594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_7
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 2275
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2d717b4888b82409f9702a921e1f86
+      internalID: 237329219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_8
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 2209
+        width: 132
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6c1c52928d84f4a81d9467ecb40aca
+      internalID: 1490128860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_9
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1810
+        width: 290
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e7e9a99b3a5934a84c1df384464db2
+      internalID: -1053661402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_10
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2103
+        width: 172
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e16068d106f5a498e195d597da2dfd
+      internalID: -625078865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_11
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 2257
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e7df6e3d5d7834eb884e711b6790b6
+      internalID: 1258488914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_12
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 2136
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d13134bc3fec4c41853bd0a039cd612
+      internalID: 83691346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_13
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 2290
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a743b9261156c458a2a8175699fc0d
+      internalID: -1889373141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_14
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 2173
+        width: 250
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e7b4f065549664692d1cf5b28a3849
+      internalID: -318658999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_15
+      rect:
+        serializedVersion: 2
+        x: 4321
+        y: 1803
+        width: 301
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8888b09b68f354c9a935854ff421a4
+      internalID: -387696079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_16
+      rect:
+        serializedVersion: 2
+        x: 6204
+        y: 1337
+        width: 369
+        height: 968
+      alignment: 9
+      pivot: {x: 0.64994466, y: 0.27840254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25.5, y: -192}
+        - {x: 19.5, y: -216}
+        - {x: 47.5, y: -228}
+        - {x: 81.5, y: -220}
+        - {x: 81.5, y: -192}
+        - {x: 55.5, y: -183}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c0f2a6338568469649c3a0c56b22d
+      internalID: 1076012127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_17
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2184
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140749ceed1cc704db4a1d5bfdcfe14f
+      internalID: -1693874275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_18
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 2162
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24.530762, y: 45.78296}
+        - {x: 9.012207, y: 45.82422}
+        - {x: -28.421875, y: 15.7771}
+        - {x: -21.089844, y: -13.186523}
+        - {x: 25.377197, y: -17.223389}
+        - {x: 35.380615, y: -11.078613}
+        - {x: 35.828613, y: 18.991943}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88b0c9d16373664e936d84787e9e353
+      internalID: 417424454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_19
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 2162
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff8f9f23f0d2845b7131da0fa91a2f
+      internalID: -2071140977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2242
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd4b458b7ef054eb36806cf18eac27
+      internalID: -1949965075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_21
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 2023
+        width: 425
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291502e55e2ad3249a27af5d97a35c8e
+      internalID: 11731483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_22
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 1568
+        width: 421
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abf17f3eef16434db6d07b10415ea2c
+      internalID: 1081802725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2107
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e4675c9c3af643ae94258f1e9e2e2
+      internalID: -1245600155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_24
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2001
+        width: 169
+        height: 175
+      alignment: 9
+      pivot: {x: 0.4378413, y: 0.31382254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280fa81a18d76c4490f085be1bf9310
+      internalID: 1383354061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_25
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 2158
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d80627eda5434647a07518ee59a19cc
+      internalID: 886520753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_26
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 2155
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5e0c1aa6b2aeb49ab23d592660b1af
+      internalID: -260882233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_27
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 2144
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0838e09220263a5449df972e309a6bef
+      internalID: -1943340107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_28
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1990
+        width: 95
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bac224d8436c14c9b0ffdcdb6bfe1f
+      internalID: -1759694241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_29
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 1990
+        width: 91
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae54cf7f50c504393a72604602f5f2
+      internalID: 110980719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_30
+      rect:
+        serializedVersion: 2
+        x: 6815
+        y: 1605
+        width: 447
+        height: 634
+      alignment: 9
+      pivot: {x: 0.55092764, y: 0.34098494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 56.5, y: -105}
+        - {x: 20.5, y: -91}
+        - {x: -19.5, y: -107}
+        - {x: -15.5, y: -130}
+        - {x: 52.5, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e617533dafa924bb8ec06c3a467785
+      internalID: -1007775912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2103
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841ccdb21bc4ed04fb2baabaecc61fd1
+      internalID: 1605910012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_32
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2136
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35bf20085704f40923bd5e509b7756
+      internalID: -893186660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_33
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763496ac262330840b09cd55f6da93e2
+      internalID: -52278434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_34
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2111
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c8406d9299e1d42b4b160baa393d63
+      internalID: -1903134271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_35
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2096
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d48855be5ec644c9083dfd53f098be
+      internalID: -133629721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1997
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aae91237a886c4e8609ffaae870226
+      internalID: -710878037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1946
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f9ca4f1e8635418fe10431a77f130
+      internalID: 618034607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_38
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1795
+        width: 208
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7cd4a151d7a2f40a30c5f7be6bbca3
+      internalID: -1370615233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_39
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1905
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a7865449f5d2d478249bfbd3568314
+      internalID: -1691466925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1960
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d285c8270ff26b459c9d8dd379c1b89
+      internalID: -1862013904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_41
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1971
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfeef78d630e35488266439f8edae13
+      internalID: -1660194803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_42
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1898
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f457cf0af4c641af23811f6b71c5d
+      internalID: 2089242393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_43
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 1949
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447283ee268501428bd350abe119d7c
+      internalID: 450162556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_44
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1891
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eda477fbf6328458a96de493186504
+      internalID: 148007323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_45
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1916
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29884222b10f6fa48aefbe4d01c38545
+      internalID: -312998399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_46
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1891
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526a8c013c7e1ee4f9ec68a5df641e96
+      internalID: 1679799836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_47
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1880
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc4997125ac96846be281648dd40de5
+      internalID: 580009349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_48
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1887
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b0bb3e95aaaaf478931f06e6b5d4fa
+      internalID: 2108897419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_49
+      rect:
+        serializedVersion: 2
+        x: 5105
+        y: 1770
+        width: 245
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96dfacc1a53b93418d5c15e8a516de6
+      internalID: -749807193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_50
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1745
+        width: 176
+        height: 128
+      alignment: 9
+      pivot: {x: 0.52910787, y: 0.3991394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 70.60919, y: 47.618286}
+        - {x: -62.40326, y: 47.462402}
+        - {x: -62.81311, y: -14.11499}
+        - {x: 78.11182, y: -13.778564}
+        - {x: 84.43793, y: 10.484863}
+        - {x: 84.23297, y: 25.043213}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b53f7c5df6cee42ae8058854577391
+      internalID: 437917235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_51
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1660
+        width: 59
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.5302124, y: 95.74646}
+        - {x: 0.36914062, y: -63.780396}
+        - {x: 26.060059, y: -63.86206}
+        - {x: 25.924072, y: 95.630615}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da11a2596d54374aa807f0cd360959f
+      internalID: -509097136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_52
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1839
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0c4577f218b1a4e9d6cebaa67ab6f6
+      internalID: -1865103960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1773
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4544c2e461503488c3ed221c0a13a5
+      internalID: 1177868320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1726
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36008e0bba0d71489d46371114b6224
+      internalID: 1757899516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1781
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f7a6c0b3356a438e29705e59bd071
+      internalID: -96189017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_56
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 1788
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0107d1fa2f362374eac948b000dc8c1d
+      internalID: 1883791108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1740
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ebd9a7c932194abe5d99a051e1208
+      internalID: -1132562234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_58
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1077
+        width: 663
+        height: 696
+      alignment: 9
+      pivot: {x: 0.51305836, y: 0.30616218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -228.5, y: 69}
+        - {x: -227.5, y: -76}
+        - {x: -69.5, y: -76}
+        - {x: -70.5, y: -170}
+        - {x: 83.5, y: -170}
+        - {x: 83.5, y: -78}
+        - {x: 243.5, y: -79}
+        - {x: 314.5, y: -16}
+        - {x: 314.5, y: 74}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025125ab6d5cc544b406e98028d41d2
+      internalID: -620658679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_59
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1565
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09b7969f3632cd44bc03c98355655e2
+      internalID: -1781082620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1605
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb935b686c28e824f981a8017d90896b
+      internalID: 1058121764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_61
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1506
+        width: 80
+        height: 110
+      alignment: 9
+      pivot: {x: 0.60535735, y: 0.35078236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29.142565, y: 55}
+        - {x: -29.142565, y: -34.763313}
+        - {x: 40, y: -34.763313}
+        - {x: 40, y: 55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e57f43a4ee17e240aed16548684e8e0
+      internalID: -1667480188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_62
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1502
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb08ed647a455e4ea9bd05a9bf62339
+      internalID: -487719263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_63
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1513
+        width: 103
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.7655978, y: 59}
+        - {x: -36.724583, y: 29.03063}
+        - {x: -36.724583, y: -18.602957}
+        - {x: -7.427707, y: -36.923565}
+        - {x: 21.869167, y: -36.923565}
+        - {x: 51.5, y: -7.61059}
+        - {x: 51.5, y: 47.351242}
+        - {x: 32.855495, y: 59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27934b56068005a41bcd0267a9d8dd57
+      internalID: 102614253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_64
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1499
+        width: 183
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5177709, y: 0.39099053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02ba2d98e3b75d4ba3483846e87f643
+      internalID: -1734324042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_65
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1510
+        width: 176
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5369561, y: 0.36991537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344370bf568ad9345b02a680430c7775
+      internalID: 1318516951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_66
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1209
+        width: 458
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f0ead0c0ad0e548a17af7d709f8723
+      internalID: 569747894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_67
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1147
+        width: 545
+        height: 593
+      alignment: 9
+      pivot: {x: 0.5820008, y: 0.32762745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 248.5, y: 7.5}
+        - {x: -177.5, y: 7.5}
+        - {x: -176.5, y: -130.5}
+        - {x: 247.5, y: -130.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e54c2bcb9c2bf4aa6e8247db583f5f
+      internalID: 147458185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_68
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 1561
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15096b0bb05cac4d92eb99101bad183
+      internalID: -695929308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_69
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 1572
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08749c74618b3849ae7ee853c1cdd4b
+      internalID: -1940594099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_70
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 1436
+        width: 62
+        height: 228
+      alignment: 9
+      pivot: {x: 0.621519, y: 0.34580165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: -35}
+        - {x: 0, y: -34}
+        - {x: 6, y: -50}
+        - {x: 24, y: -50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7dc37d11cff13479ef942f538b1649
+      internalID: 1013066120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_71
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1528
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320573f14c46a1e4ba3d5b07f590a5eb
+      internalID: -1879097789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_72
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1499
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922d8d642382fde46a0e08ecae2442eb
+      internalID: 383365587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_73
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1499
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba483e4cfe2d56409ea3ca93ce19761
+      internalID: 1953782836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_74
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1539
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c389416a44ab8674bb43fb5be2f8984d
+      internalID: -822786983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_75
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 1499
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10ebc577c7e49e449a249132a7ea7b1
+      internalID: 1923999399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_76
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 1469
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb8c238363f524e8005c860ea37c35
+      internalID: -904517634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_77
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 1469
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba6c663ccefbe448441f11e35d4abc
+      internalID: 883095365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_78
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1477
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9974be7d451b6334bbc52cdac9867070
+      internalID: 47530802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_79
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 1499
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b253f9aca8d724d8509f035f6c1534
+      internalID: -1515131467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_80
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1528
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1ee6571eee4e5479c5014a5647e36d
+      internalID: -1312498470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_81
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1345
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8596227ecc760f1468bf1a0244637476
+      internalID: -109153410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_82
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1414
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33536de272d7037428c48a619c95b7c8
+      internalID: 1534018435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_83
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1092
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff2ac189acd43e4a9fc5538014023a7
+      internalID: -49633316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_84
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 1121
+        width: 180
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bc48dddc4d3da4d873dc56c9b478af
+      internalID: 1426070812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_85
+      rect:
+        serializedVersion: 2
+        x: 5372
+        y: 1096
+        width: 293
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f8bacb99785f488287b9e0c44f361
+      internalID: 703688978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_86
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1279
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629552f7b41afdb47af467b265857f13
+      internalID: -661096744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1282
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e0bfdddf0e3b64facdf8395494119e
+      internalID: 1097304092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_88
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1154
+        width: 117
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5952628, y: 0.35159457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23.5, y: 97}
+        - {x: 3.5, y: 97}
+        - {x: -41.864254, y: 52.93129}
+        - {x: -41.864254, y: -42.335884}
+        - {x: 56.5, y: -42}
+        - {x: 58.5, y: 52.93129}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b30f79e2813b74b9c7c16f8499bc04
+      internalID: 572438832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_89
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1088
+        width: 241
+        height: 282
+      alignment: 9
+      pivot: {x: 0.51049376, y: 0.1412479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -115.5, y: 80}
+        - {x: -113.5, y: -52}
+        - {x: -89.5, y: -99}
+        - {x: -72.5, y: -97}
+        - {x: -52.5, y: 49}
+        - {x: 59.5, y: 48}
+        - {x: 76.5, y: -99}
+        - {x: 85.5, y: -100}
+        - {x: 118.5, y: -48}
+        - {x: 114.5, y: 82}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9dd9cc7c8b20344bf72908685742bc
+      internalID: -1998310862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_90
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1205
+        width: 165
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5197095, y: 0.37627843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236154f50026c1642ac4f58a208eac06
+      internalID: -233653470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_91
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 1264
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ce3fe383ce93449a2b2d1d4beb6c32
+      internalID: 1711009412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_92
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 1173
+        width: 121
+        height: 208
+      alignment: 9
+      pivot: {x: 0.6347616, y: 0.33340865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25.5, y: -19}
+        - {x: -20.5, y: -44}
+        - {x: 51.5, y: -43}
+        - {x: 52.5, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a19d065384e341a31af582b922c17
+      internalID: -1619668465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_93
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 1184
+        width: 106
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be22aec1d845f24f958c7eeb1bb5a6d
+      internalID: -982426780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_94
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 1202
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04f339ec7a4ad43a7dc8f135e40c1d
+      internalID: -404003466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_95
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 1176
+        width: 131
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e97be794078f4b988a427a9066d98
+      internalID: 1751182098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_96
+      rect:
+        serializedVersion: 2
+        x: 7002
+        y: 747
+        width: 322
+        height: 616
+      alignment: 9
+      pivot: {x: 0.5908976, y: 0.3627354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -89, y: 5}
+        - {x: -89, y: -117}
+        - {x: 144, y: -117}
+        - {x: 144, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3d6780ef164654fb12ac108fb31b6d
+      internalID: 2073044747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_97
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1132
+        width: 113
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce9c8668e9818c419fe95e2f7aa1fe5
+      internalID: 1354173297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_98
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1151
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b1237c00bc4c7428311ae939e3845d
+      internalID: -636377929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_99
+      rect:
+        serializedVersion: 2
+        x: 6149
+        y: 337
+        width: 545
+        height: 927
+      alignment: 9
+      pivot: {x: 0.57829523, y: 0.34729952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 41.28418, y: -101.6366}
+        - {x: -25.555664, y: -118.86047}
+        - {x: -15.041992, y: -173.97937}
+        - {x: 61.046875, y: -182.30652}
+        - {x: 111.50928, y: -145.47626}
+        - {x: 104.339355, y: -115.1402}
+      tessellationDetail: 0
+      bones: []
+      spriteID: faecb4225bca5c54ab5e44d053af5e43
+      internalID: 1349756449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_100
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 828
+        width: 176
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee38c2939ee24e54e9ca97c12507a474
+      internalID: 645816539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_101
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 835
+        width: 132
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ddeb6e0547b340962b5d7fd563b41
+      internalID: -1597190807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_102
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 766
+        width: 535
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b249ee0656bf41b5d7f248ffc89e0
+      internalID: -800342068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_103
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 876
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cdde07a4067b0488b231a6ca53165e
+      internalID: 388789353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_104
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 887
+        width: 169
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5787433, y: 0.339272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -51.5, y: -32.5}
+        - {x: 74.5, y: -32.5}
+        - {x: 74.5, y: 13.5}
+        - {x: -51.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e048d03b6b28468db0f2020fedff1
+      internalID: 1932229680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_105
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 876
+        width: 136
+        height: 143
+      alignment: 9
+      pivot: {x: 0.558574, y: 0.45278567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23, y: -18.5}
+        - {x: 50, y: -16.5}
+        - {x: 49, y: 5.5}
+        - {x: -21, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bae8eecb3f9f5459d67f762c4bd108
+      internalID: -127886047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_106
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 850
+        width: 110
+        height: 224
+      alignment: 9
+      pivot: {x: 0.6964977, y: 0.29929242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -35}
+        - {x: 15, y: -47}
+        - {x: 29, y: -47}
+        - {x: 29, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266164d032767fb4783443d5ba059b5a
+      internalID: -380192591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_107
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 788
+        width: 271
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98bde2baed67c4fa06d90e567c8f67
+      internalID: 1920957199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_108
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 645
+        width: 209
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f0bbb103e2204eb5081870afdde73
+      internalID: -1098117193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_109
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 612
+        width: 114
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70553dbc2379f4348bbfe74749f3c322
+      internalID: -1434834403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_110
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 791
+        width: 151
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40bdeec0d1613a4e8a41b22e2f586dc
+      internalID: -894506812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_111
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 744
+        width: 80
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbe38df719f40545b76248a8fa1d442
+      internalID: -1975146819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_112
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 817
+        width: 307
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa9506179969545aca637cce43c711
+      internalID: 1112673608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_113
+      rect:
+        serializedVersion: 2
+        x: 5577
+        y: 799
+        width: 81
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c68cd773a04945b333356660e1c9e
+      internalID: 1355911783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 300
+        width: 168
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be1de634f04cd4fa32dcc9c687f780
+      internalID: -138598629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_115
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 147
+        width: 340
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afb2abf6c61abe42bad91a94d2233d1
+      internalID: 1391613362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_116
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 7
+        width: 630
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124bb663c628624f920c8b53ca0e729
+      internalID: -526325376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_117
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 594
+        width: 271
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68f523b72f740841aa905d354eba253
+      internalID: -2145434540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_118
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 495
+        width: 285
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b98170841370143b2b9c6d6d8e90a4
+      internalID: -1279230486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_119
+      rect:
+        serializedVersion: 2
+        x: 5673
+        y: 601
+        width: 153
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c229cdd62e8af249a077c3ff3b27701
+      internalID: -1523504924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_120
+      rect:
+        serializedVersion: 2
+        x: 7258
+        y: 553
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7e8ba59799ae14694b1b131b0bbed8
+      internalID: 1066792050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_121
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 311
+        width: 322
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db38d032179bfd4ab895282611e6ec5
+      internalID: -615421179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_122
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 528
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9761ecd6f43ce4ba859749128c4cac
+      internalID: 1039486108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_123
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 198
+        width: 575
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d921f4e1191a0e24ea69a319909a8905
+      internalID: 1123505703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_124
+      rect:
+        serializedVersion: 2
+        x: 7148
+        y: 531
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f201751e8a4f74091ee2a422f90be6
+      internalID: 1307620273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_125
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 498
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbad5467eb8d27540a7da4956f3a8a8e
+      internalID: 1896781571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_126
+      rect:
+        serializedVersion: 2
+        x: 7181
+        y: 429
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136c8a1d00b7214a9d537364320755e
+      internalID: 9204865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_127
+      rect:
+        serializedVersion: 2
+        x: 7284
+        y: 374
+        width: 121
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e399e60da299a84290e085850d8d883
+      internalID: 1495481358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_128
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 161
+        width: 198
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4d4cb05dee3d429fe47ab3d2beb7e
+      internalID: 207145128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_129
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 103
+        width: 114
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f923445fa8404fb1a83370eade8e5
+      internalID: 603846656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_130
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 95
+        width: 197
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10923b9ba89b8a44d8190e7a3a57bc0c
+      internalID: 796763389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_131
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 44
+        width: 85
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bb1cc0315c26044a5db4f73b5c46b1
+      internalID: -1039661380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_132
+      rect:
+        serializedVersion: 2
+        x: 5464
+        y: 7
+        width: 69
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43e8a5f8e69b04391d8add0a34d57a
+      internalID: -348065816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_133
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 132
+        width: 95
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a24b486adfa34144b9b78abba941bf1
+      internalID: -1961083552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsWinter_134
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 95
+        width: 249
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2571eb8fb298443884c84a0bb819d3
+      internalID: 1347110781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PropsWinter_61: -1667480188
+      PropsWinter_91: 1711009412
+      PropsWinter_56: 1883791108
+      PropsWinter_99: 1349756449
+      PropsWinter_41: -1660194803
+      PropsWinter_31: 1605910012
+      PropsWinter_84: 1426070812
+      PropsWinter_21: 11731483
+      PropsWinter_38: -1370615233
+      PropsWinter_119: -1523504924
+      PropsWinter_16: 1076012127
+      PropsWinter_9: -1053661402
+      PropsWinter_30: -1007775912
+      PropsWinter_13: -1889373141
+      PropsWinter_45: -312998399
+      PropsWinter_125: 1896781571
+      PropsWinter_29: 110980719
+      PropsWinter_48: 2108897419
+      PropsWinter_44: 148007323
+      PropsWinter_94: -404003466
+      PropsWinter_72: 383365587
+      PropsWinter_108: -1098117193
+      PropsWinter_103: 388789353
+      PropsWinter_87: 1097304092
+      PropsWinter_101: -1597190807
+      PropsWinter_43: 450162556
+      PropsWinter_7: 237329219
+      PropsWinter_34: -1903134271
+      PropsWinter_71: -1879097789
+      PropsWinter_128: 207145128
+      PropsWinter_28: -1759694241
+      PropsWinter_26: -260882233
+      PropsWinter_110: -894506812
+      PropsWinter_64: -1734324042
+      PropsWinter_18: 417424454
+      PropsWinter_124: 1307620273
+      PropsWinter_113: 1355911783
+      PropsWinter_78: 47530802
+      PropsWinter_77: 883095365
+      PropsWinter_80: -1312498470
+      PropsWinter_55: -96189017
+      PropsWinter_70: 1013066120
+      PropsWinter_58: -620658679
+      PropsWinter_117: -2145434540
+      PropsWinter_121: -615421179
+      PropsWinter_102: -800342068
+      PropsWinter_15: -387696079
+      PropsWinter_83: -49633316
+      PropsWinter_2: 794558395
+      PropsWinter_106: -380192591
+      PropsWinter_79: -1515131467
+      PropsWinter_8: 1490128860
+      PropsWinter_69: -1940594099
+      PropsWinter_3: 1295836069
+      PropsWinter_37: 618034607
+      PropsWinter_42: 2089242393
+      PropsWinter_62: -487719263
+      PropsWinter_75: 1923999399
+      PropsWinter_68: -695929308
+      PropsWinter_97: 1354173297
+      PropsWinter_133: -1961083552
+      PropsWinter_10: -625078865
+      PropsWinter_89: -1998310862
+      PropsWinter_93: -982426780
+      PropsWinter_127: 1495481358
+      PropsWinter_118: -1279230486
+      PropsWinter_129: 603846656
+      PropsWinter_120: 1066792050
+      PropsWinter_90: -233653470
+      PropsWinter_20: -1949965075
+      PropsWinter_4: 501759639
+      PropsWinter_27: -1943340107
+      PropsWinter_19: -2071140977
+      PropsWinter_54: 1757899516
+      PropsWinter_85: 703688978
+      PropsWinter_14: -318658999
+      PropsWinter_36: -710878037
+      PropsWinter_40: -1862013904
+      PropsWinter_57: -1132562234
+      PropsWinter_17: -1693874275
+      PropsWinter_49: -749807193
+      PropsWinter_52: -1865103960
+      PropsWinter_104: 1932229680
+      PropsWinter_47: 580009349
+      PropsWinter_63: 102614253
+      PropsWinter_100: 645816539
+      PropsWinter_123: 1123505703
+      PropsWinter_126: 9204865
+      PropsWinter_96: 2073044747
+      PropsWinter_109: -1434834403
+      PropsWinter_65: 1318516951
+      PropsWinter_116: -526325376
+      PropsWinter_25: 886520753
+      PropsWinter_5: -2144263479
+      PropsWinter_95: 1751182098
+      PropsWinter_0: -330733797
+      PropsWinter_131: -1039661380
+      PropsWinter_112: 1112673608
+      PropsWinter_33: -52278434
+      PropsWinter_105: -127886047
+      PropsWinter_114: -138598629
+      PropsWinter_23: -1245600155
+      PropsWinter_50: 437917235
+      PropsWinter_98: -636377929
+      PropsWinter_11: 1258488914
+      PropsWinter_22: 1081802725
+      PropsWinter_67: 147458185
+      PropsWinter_132: -348065816
+      PropsWinter_35: -133629721
+      PropsWinter_73: 1953782836
+      PropsWinter_1: 1279424218
+      PropsWinter_130: 796763389
+      PropsWinter_66: 569747894
+      PropsWinter_59: -1781082620
+      PropsWinter_46: 1679799836
+      PropsWinter_74: -822786983
+      PropsWinter_6: 844968594
+      PropsWinter_12: 83691346
+      PropsWinter_81: -109153410
+      PropsWinter_88: 572438832
+      PropsWinter_111: -1975146819
+      PropsWinter_86: -661096744
+      PropsWinter_107: 1920957199
+      PropsWinter_134: 1347110781
+      PropsWinter_76: -904517634
+      PropsWinter_51: -509097136
+      PropsWinter_92: -1619668465
+      PropsWinter_82: 1534018435
+      PropsWinter_32: -893186660
+      PropsWinter_53: 1177868320
+      PropsWinter_39: -1691466925
+      PropsWinter_24: 1383354061
+      PropsWinter_115: 1391613362
+      PropsWinter_60: 1058121764
+      PropsWinter_122: 1039486108
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

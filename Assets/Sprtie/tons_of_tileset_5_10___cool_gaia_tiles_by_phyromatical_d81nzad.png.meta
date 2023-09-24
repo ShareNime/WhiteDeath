@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 182f3ce36c322ef4085cfe773041a990
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 7
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 41
+        height: 54
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.5, y: -11}
+        - {x: -5.5, y: -11}
+        - {x: -10.5, y: -14}
+        - {x: -12.5, y: -17}
+        - {x: -12.5, y: -19}
+        - {x: -12.5, y: -21}
+        - {x: -11.5, y: -22}
+        - {x: -9.5, y: -22}
+        - {x: -9.5, y: -23}
+        - {x: -7.5, y: -23}
+        - {x: -7.5, y: -24}
+        - {x: -4.5, y: -24}
+        - {x: -3.5, y: -22}
+        - {x: -1.5, y: -22}
+        - {x: 0.5, y: -22}
+        - {x: 1.5, y: -23}
+        - {x: 1.5, y: -24}
+        - {x: 4.5, y: -24}
+        - {x: 4.5, y: -23}
+        - {x: 6.5, y: -23}
+        - {x: 9.5, y: -21}
+        - {x: 8.5, y: -16}
+        - {x: 5.5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01386e1d5372046468149cfbec4f6050
+      internalID: 1001119797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 177
+        width: 40
+        height: 47
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f7426f74d52140b315271c94a7e48
+      internalID: -424769549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 41
+        height: 54
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b851a5112e47c4490649feba2891e7
+      internalID: -1859708169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 177
+        width: 40
+        height: 47
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879af9004c568404cb0789ccb050d550
+      internalID: 1421229915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 165
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ca31df6889e84ba9719ad042d9329
+      internalID: -1843217621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71693680fa97350459775ec2e0bfbbc2
+      internalID: -332958301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb391e548c46144909e3f8c4f50fb6
+      internalID: -1489321764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 134
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ae0531e6a09ba419f1d8acfb45bfb7
+      internalID: 33048420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fbd0d520681cf498dc61144e4828e8
+      internalID: -1128579936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 240
+        height: 130
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9438096d8ed83ba45b2155973eb5681b
+      internalID: 1422809215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_7: 33048420
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_1: -424769549
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_8: -1128579936
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_5: -332958301
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_4: -1843217621
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_6: -1489321764
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_2: -1859708169
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_9: 1422809215
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_3: 1421229915
+      tons_of_tileset_5_10___cool_gaia_tiles_by_phyromatical_d81nzad_0: 1001119797
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

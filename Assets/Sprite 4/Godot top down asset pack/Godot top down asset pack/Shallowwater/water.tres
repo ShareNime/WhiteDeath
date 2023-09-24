@@ -1,0 +1,11 @@
+[gd_resource type="AnimatedTexture" load_steps=3 format=2]
+
+[ext_resource path="res://World/tilesets/wateranims/watertileset1.png" type="Texture" id=3]
+[ext_resource path="res://World/tilesets/wateranims/watertileset2.png" type="Texture" id=5]
+
+[resource]
+frames = 2
+fps = 2.0
+frame_0/texture = ExtResource( 3 )
+frame_1/texture = ExtResource( 5 )
+frame_1/delay_sec = 0.0

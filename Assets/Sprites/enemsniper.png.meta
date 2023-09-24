@@ -1,0 +1,1961 @@
+fileFormatVersion: 2
+guid: b3bfd9af8ebab0a44bc276f63e6af7ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemsniper_0
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 4843
+        width: 581
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb4f9222ae4114eb7aac722fe8fe0d
+      internalID: 696046199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4530
+        width: 561
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a359b7474a5641b7389cbc587965a
+      internalID: -1177289330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_2
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 4283
+        width: 351
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5592841, y: 0.09899673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2fdde7adac1d418e661b1562672c0
+      internalID: -551324412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_3
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 4283
+        width: 349
+        height: 474
+      alignment: 9
+      pivot: {x: 0.6273106, y: 0.111166395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf13c265155394d821e5ab0f9f4d0a
+      internalID: -1919658707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_4
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 4283
+        width: 354
+        height: 469
+      alignment: 9
+      pivot: {x: 0.6534045, y: 0.11403814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e320cd45ea1a94ea7f1a43624aa641
+      internalID: 2004610152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_5
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 4283
+        width: 361
+        height: 479
+      alignment: 9
+      pivot: {x: 0.6321957, y: 0.13240272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e90b97104ce7a441bfb908d3e9ecf15
+      internalID: -772827388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_6
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 4283
+        width: 352
+        height: 474
+      alignment: 9
+      pivot: {x: 0.6449266, y: 0.121581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87811848b5c31aa47be7da8b0d00589f
+      internalID: 702104512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_7
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 4283
+        width: 354
+        height: 469
+      alignment: 9
+      pivot: {x: 0.6394588, y: 0.14210859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cba357c1474fa4f8dc63dc2292af00
+      internalID: 442171237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_8
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 4283
+        width: 348
+        height: 479
+      alignment: 9
+      pivot: {x: 0.6702362, y: 0.135838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d34f2b3ab2e44f906ee71cfd510f7
+      internalID: -873242271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4447
+        width: 632
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3107ad11f3ecc444dba99a471c1f5211
+      internalID: -1133523632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_10
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 4277
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518bd2d354ec5cb4689bf41a3bf5cfa3
+      internalID: -1562949911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_11
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 4289
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830f35326460a54a823a5edde21d331
+      internalID: 124873208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_12
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 4289
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3ce92cb94a1d4e9958ef992c5644d
+      internalID: 1678045349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_13
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 4289
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de18c845fc10c547ad48864f3268ae6
+      internalID: -1759291305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_14
+      rect:
+        serializedVersion: 2
+        x: 4133
+        y: 4289
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c18928ca57eb4cb041f9fc2e9de3f
+      internalID: 504436444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_15
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 4169
+        width: 581
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75564ecc39c4f6b4cb0077cdcb9ec931
+      internalID: 1853553384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3895
+        width: 615
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a24d44663de24c8e2a610febef629
+      internalID: 1441228225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_17
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3624
+        width: 351
+        height: 484
+      alignment: 9
+      pivot: {x: 0.35685116, y: 0.120342664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da4285de76abc479d678413ea2f5d9
+      internalID: -1607650354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_18
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3624
+        width: 354
+        height: 479
+      alignment: 9
+      pivot: {x: 0.35400873, y: 0.11937661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463074018becd254c9afd70de93e2c9e
+      internalID: 293191230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_19
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 3624
+        width: 359
+        height: 469
+      alignment: 9
+      pivot: {x: 0.39203137, y: 0.10207837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ea627245234e4698f2b55fbee13ab
+      internalID: 1291097917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_20
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 3624
+        width: 349
+        height: 484
+      alignment: 9
+      pivot: {x: 0.34780386, y: 0.12924068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18458be8688c5644c81e7e1da3e36de2
+      internalID: -571991907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_21
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 3624
+        width: 354
+        height: 479
+      alignment: 9
+      pivot: {x: 0.3458983, y: 0.1103852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f75cc114cac7f47aa673c4973caef4
+      internalID: -1758556916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_22
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 3624
+        width: 354
+        height: 469
+      alignment: 9
+      pivot: {x: 0.35806394, y: 0.13574843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27628db51d8ac074fa79b7ba67b8026d
+      internalID: -1196960058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_23
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 3624
+        width: 359
+        height: 484
+      alignment: 9
+      pivot: {x: 0.3840332, y: 0.1322067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb52e4097dc084da681225d8d7cba5
+      internalID: -1502167949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3812
+        width: 632
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec85ca4d7e1d8d4d85a2bb7237c51be
+      internalID: 419747073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_25
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3628
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b45bf1d299a2744990a1af25f0e6ae
+      internalID: -1315946991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_26
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 3628
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae800de652baf14da79c9cdf4de1c61
+      internalID: 965761086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_27
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3378
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adea319ac0c7d564f98413acb0cb76e4
+      internalID: 307078350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_28
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 3060
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4d313762b3744c8f449207a4e5e66
+      internalID: 1654900500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_29
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3060
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212648bd34ea2764384bb1cab9959e36
+      internalID: 13908997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_30
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3060
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6bebe721c403f418d068fe66dac6a6
+      internalID: 571527834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_31
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 3060
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe7fe2e9c4df644a6fdfb76771af14
+      internalID: 1344983585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_32
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 3060
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9fa5aa425598d4f927ec7d796db0f5
+      internalID: -1404469570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_33
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 3060
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25474a0ab936cda439cdaafa9fb8f507
+      internalID: -1690538769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_34
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2963
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c401829865b147b9471703d32b77d
+      internalID: 1481045855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_35
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2435
+        width: 220
+        height: 579
+      alignment: 9
+      pivot: {x: 0.5282665, y: 0.08470035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7906de1ae99ce4f4b93c8e1812fcde56
+      internalID: 1643397635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_36
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2435
+        width: 217
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5095521, y: 0.10437327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec23627bdedb254589233743b2bc96e
+      internalID: 675443407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_37
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2435
+        width: 212
+        height: 484
+      alignment: 9
+      pivot: {x: 0.49999943, y: 0.11453979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd49d36137999484788da94c98dfbb5b
+      internalID: 1521134157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_38
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2435
+        width: 212
+        height: 489
+      alignment: 9
+      pivot: {x: 0.48044342, y: 0.13543764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fda75e1ce431944a79cbf68f2a0cad
+      internalID: -1864142752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_39
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2435
+        width: 212
+        height: 479
+      alignment: 9
+      pivot: {x: 0.49999884, y: 0.13215399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f698d63cb28a986438733bd7715d7be7
+      internalID: -1258258568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_40
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 2435
+        width: 209
+        height: 484
+      alignment: 9
+      pivot: {x: 0.49999884, y: 0.118822835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd68fc77519074046af052015318c4a8
+      internalID: 2093077863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_41
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 2435
+        width: 496
+        height: 493
+      alignment: 9
+      pivot: {x: 0.6775411, y: 0.10896248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8287b973d0ac824abd096feafb948ea
+      internalID: 423238657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_42
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 2435
+        width: 506
+        height: 493
+      alignment: 9
+      pivot: {x: 0.7539936, y: 0.12998582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa249d86a12d264596465d6ceddab5a
+      internalID: -1713092996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_43
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 2843
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28992eadac2f96746867ffcf83b3a561
+      internalID: 327824806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_44
+      rect:
+        serializedVersion: 2
+        x: 4139
+        y: 2435
+        width: 432
+        height: 508
+      alignment: 9
+      pivot: {x: 0.6554675, y: 0.1327505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea6a1dbf2ef024c820200e18d2e655
+      internalID: -952130031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2648
+        width: 728
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd17144cb6777478600906e1b879b2
+      internalID: 961890028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_46
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 2711
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11537266b9b767488ceca0601aacbb0
+      internalID: -1884638584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_47
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2448
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff493383bf4cc69429b6c1ff0b8d58a9
+      internalID: 1956325250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_48
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2448
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2810b1b2e1628f419904551693be5c9
+      internalID: 1391228669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_49
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2448
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f86e926e216e44a66d23dd4bbaa36
+      internalID: 237927865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_50
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2458
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89e5ce97e9171940b7d219d22daab62
+      internalID: 757066938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_51
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2453
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e6663ec97899488b9693ca8cd5c11
+      internalID: 156281632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_52
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2453
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0f8fb6c2118541b0d6c8f89205e6a
+      internalID: -1560533597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1869
+        width: 476
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6423dbf89b91244ae88f04bb36571a
+      internalID: 1903956731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1659
+        width: 359
+        height: 478
+      alignment: 9
+      pivot: {x: 0.632805, y: 0.109701626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36222eaf19ee5a4f879547d279c7b88
+      internalID: -1359377942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_55
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1659
+        width: 361
+        height: 483
+      alignment: 9
+      pivot: {x: 0.63206923, y: 0.105158396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb85b5172053574a92a4ed9ef8c8297
+      internalID: 1318845754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_56
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 1659
+        width: 349
+        height: 483
+      alignment: 9
+      pivot: {x: 0.3396304, y: 0.12661698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678ab16e17246784994ac742e8b4f2a7
+      internalID: 1223261980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_57
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1659
+        width: 352
+        height: 478
+      alignment: 9
+      pivot: {x: 0.34688637, y: 0.12271156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fad72bf750f1448a795599c7e55d90
+      internalID: -19400385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1786
+        width: 415
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6547c0602a048ef41ab2991043beeedd
+      internalID: 396751421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_59
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1786
+        width: 217
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a39065d86e8afb46bcaa7d0d2804630
+      internalID: 1079141962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_60
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 1808
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb06644ecf18b4c4abacd588b76ae1f2
+      internalID: -1512825095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_61
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 1858
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43357cbe27279644961e26ea23750e2
+      internalID: -749928094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_62
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 1853
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba7771676d7d745a3eef39af397795
+      internalID: 1779895911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_63
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1679
+        width: 364
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17344e6772e0abd49a58717a8f87eab6
+      internalID: -1332060473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_64
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 1679
+        width: 455
+        height: 478
+      alignment: 9
+      pivot: {x: 0.49544343, y: 0.27589953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d1cf824e9be3f46829be331ee4ec51
+      internalID: 1928664212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_65
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 1671
+        width: 471
+        height: 478
+      alignment: 9
+      pivot: {x: 0.49559823, y: 0.32153562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b05f842f00a527448286329ecfca215
+      internalID: -1404735688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_66
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 1368
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f041644f57403489d12d192f099aa1
+      internalID: -158155990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_67
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 1088
+        width: 583
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b388047a30f4a943a524eb20b5c22a6
+      internalID: 962417920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 766
+        width: 562
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b6304a788da04db45fd9914322109
+      internalID: -1701802008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_69
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 521
+        width: 359
+        height: 467
+      alignment: 9
+      pivot: {x: 0.6506589, y: 0.11145098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c4b0d6596b3e54fb6419d3dee24a7f
+      internalID: 2083181739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_70
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 521
+        width: 344
+        height: 462
+      alignment: 9
+      pivot: {x: 0.65722835, y: 0.13368139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a56f76106b4c4ab05671bc0635fdf
+      internalID: -659326446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_71
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 521
+        width: 369
+        height: 457
+      alignment: 9
+      pivot: {x: 0.63239104, y: 0.11058462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8696cbd70ef6f4586e78e4fecb7ece
+      internalID: -500213393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_72
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 521
+        width: 371
+        height: 437
+      alignment: 9
+      pivot: {x: 0.59405535, y: 0.124702506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5fbd1911d66984d8feb216989d2c7e
+      internalID: -286959901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_73
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 521
+        width: 359
+        height: 467
+      alignment: 9
+      pivot: {x: 0.65065855, y: 0.11892315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568731fe46bb3644d9d9cdc109a722a1
+      internalID: 944634620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_74
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 521
+        width: 349
+        height: 467
+      alignment: 9
+      pivot: {x: 0.6349783, y: 0.11145098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fed76688b70fb4e82f769866602da0
+      internalID: 2131800789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_75
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 521
+        width: 368
+        height: 457
+      alignment: 9
+      pivot: {x: 0.63275015, y: 0.14494474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba48257c007fd8147a7a3a61b57a92c1
+      internalID: 1349719343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_76
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 521
+        width: 371
+        height: 442
+      alignment: 9
+      pivot: {x: 0.622271, y: 0.12105315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24961793b2c7a4e43bd8c23a4a5ec39b
+      internalID: 2068189842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_77
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 521
+        width: 339
+        height: 476
+      alignment: 9
+      pivot: {x: 0.62866426, y: 0.13345888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b155854eedbb64dba7dcb447710b0c
+      internalID: -272769206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 661
+        width: 632
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2b47b8e35a4bf4f88855e896f0d17d
+      internalID: 670863027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_79
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 519
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f154cd105b81c4092cad4823e4227a
+      internalID: -71896197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_80
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 508
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e0576a948c5641b42c06f3f930ca5
+      internalID: -1708279062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_81
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 519
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfef5eaec5995674d839b9a432f9ee65
+      internalID: 2059738623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemsniper_82
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 508
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce58ad6116c15641a0ee06ddaa0f30a
+      internalID: -1436974559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemsniper_27: 307078350
+      enemsniper_53: 1903956731
+      enemsniper_33: -1690538769
+      enemsniper_25: -1315946991
+      enemsniper_71: -500213393
+      enemsniper_28: 1654900500
+      enemsniper_12: 1678045349
+      enemsniper_16: 1441228225
+      enemsniper_40: 2093077863
+      enemsniper_51: 156281632
+      enemsniper_17: -1607650354
+      enemsniper_59: 1079141962
+      enemsniper_82: -1436974559
+      enemsniper_47: 1956325250
+      enemsniper_29: 13908997
+      enemsniper_30: 571527834
+      enemsniper_9: -1133523632
+      enemsniper_15: 1853553384
+      enemsniper_31: 1344983585
+      enemsniper_66: -158155990
+      enemsniper_78: 670863027
+      enemsniper_36: 675443407
+      enemsniper_55: 1318845754
+      enemsniper_79: -71896197
+      enemsniper_23: -1502167949
+      enemsniper_6: 702104512
+      enemsniper_7: 442171237
+      enemsniper_2: -551324412
+      enemsniper_41: 423238657
+      enemsniper_26: 965761086
+      enemsniper_1: -1177289330
+      enemsniper_8: -873242271
+      enemsniper_18: 293191230
+      enemsniper_70: -659326446
+      enemsniper_80: -1708279062
+      enemsniper_32: -1404469570
+      enemsniper_22: -1196960058
+      enemsniper_11: 124873208
+      enemsniper_67: 962417920
+      enemsniper_56: 1223261980
+      enemsniper_46: -1884638584
+      enemsniper_0: 696046199
+      enemsniper_20: -571991907
+      enemsniper_21: -1758556916
+      enemsniper_37: 1521134157
+      enemsniper_48: 1391228669
+      enemsniper_24: 419747073
+      enemsniper_69: 2083181739
+      enemsniper_76: 2068189842
+      enemsniper_61: -749928094
+      enemsniper_13: -1759291305
+      enemsniper_63: -1332060473
+      enemsniper_50: 757066938
+      enemsniper_10: -1562949911
+      enemsniper_34: 1481045855
+      enemsniper_44: -952130031
+      enemsniper_57: -19400385
+      enemsniper_52: -1560533597
+      enemsniper_43: 327824806
+      enemsniper_45: 961890028
+      enemsniper_35: 1643397635
+      enemsniper_65: -1404735688
+      enemsniper_4: 2004610152
+      enemsniper_5: -772827388
+      enemsniper_75: 1349719343
+      enemsniper_77: -272769206
+      enemsniper_19: 1291097917
+      enemsniper_38: -1864142752
+      enemsniper_74: 2131800789
+      enemsniper_60: -1512825095
+      enemsniper_72: -286959901
+      enemsniper_81: 2059738623
+      enemsniper_14: 504436444
+      enemsniper_54: -1359377942
+      enemsniper_68: -1701802008
+      enemsniper_39: -1258258568
+      enemsniper_42: -1713092996
+      enemsniper_64: 1928664212
+      enemsniper_73: 944634620
+      enemsniper_62: 1779895911
+      enemsniper_58: 396751421
+      enemsniper_49: 237927865
+      enemsniper_3: -1919658707
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

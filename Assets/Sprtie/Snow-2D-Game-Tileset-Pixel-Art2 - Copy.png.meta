@@ -1,0 +1,1609 @@
+fileFormatVersion: 2
+guid: f3d9749827b4b4e47ba08efe97115f41
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 832
+        width: 69
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd96ae1e9b0edb84f91712ed86cc68fa
+      internalID: -1876182223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 68
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c854693eeaf0943b99015e94c4e24b
+      internalID: 2051065333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 832
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd90b905e567a234ba8875774027aa17
+      internalID: 969349204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 422
+        width: 254
+        height: 486
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2645a477e80abf449b18a2a684442ac4
+      internalID: -858578063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 423
+        width: 247
+        height: 469
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41deb56805e9fe34dbc9fd2424e21be6
+      internalID: -261259161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 620
+        width: 190
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1980d6da219c23842b7d7a6b6ec6b6c0
+      internalID: -896844901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 621
+        width: 185
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0249d9b5a9b1a194ab8c774bab42b5aa
+      internalID: -1895002606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 834
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350391cd8d964844b9d679c2ffd172e0
+      internalID: -565898073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 749
+        width: 68
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eec252dd951344db5b3893c5ccb34d
+      internalID: 260928944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 749
+        width: 68
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfec6e2aea81074c8c6584ceab221db
+      internalID: 768120730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 749
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347297565b296cc45b064b8bc3641f7a
+      internalID: 50675631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 768
+        width: 64
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c3ec3696d97da4993f2b8560f33fff
+      internalID: -1165764639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 680
+        width: 65
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d7f181c0d6d64e8c5e0bd5a8fbf41
+      internalID: 2044433845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 680
+        width: 65
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991fa18c63420c4fa0dbcbcbd7013f6
+      internalID: -1276902094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 705
+        width: 65
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8b9fafabdea60459b1f7f9594b6969
+      internalID: 55679213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 684
+        width: 65
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4192eb38d8afa48971a2e516e976ca
+      internalID: 1259703181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 582
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c253aca3e246e46b5dc5ade6c61384
+      internalID: -295414483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 582
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe331a1787fb34441922a77919164a85
+      internalID: -604484313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 576
+        width: 66
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786f7133d419a6449145c9645fa65cf
+      internalID: -260061822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 641
+        width: 62
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7e8bbaa2aa8c848844a7d7549ae954
+      internalID: -154963006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 269
+        width: 165
+        height: 308
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1b046ea377374280d9c66aef962bd
+      internalID: 471929942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 268
+        width: 163
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508041312dca8954390f12d2bcd1be3e
+      internalID: -1477748641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 576
+        width: 64
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcff0a9f370466d4b984720649762fd9
+      internalID: 1370366011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 486
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f9897e5f63a7145b572d2c05dfea8b
+      internalID: 1319955720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 486
+        width: 65
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1977d30bf0485459cd1ff9838bc2a6
+      internalID: 1765857031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 480
+        width: 66
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c728ac7f5703f4746924461a973a4e67
+      internalID: -842943570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 424
+        width: 47
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b696d0f041ca408a37ce048dcba85
+      internalID: 1578061415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 425
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8ff8d606bb27e42a599c7afe8d1ba2
+      internalID: -2138958633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 425
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4acd7c410c26b24296b5272249c282d
+      internalID: 2096014890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 320
+        width: 91
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dacf79c043e7864283d5b99135ff385
+      internalID: 350152847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 367
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce9e8635bae622459a87ae51e0975ec
+      internalID: -666647782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 367
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca334fc7dfe3304895176899bc1e063
+      internalID: -394484306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 336
+        width: 64
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8842737b9c09549bb7cee034af1b20
+      internalID: 1609097704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 341
+        width: 47
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371c9ec9cc5835d4f9346a646cd7ce65
+      internalID: 933423878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 311
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7f3244a3410c4fbb3e7fb3778900b
+      internalID: -1026373472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 311
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51ee4e6b1bb1b14eb7dfaccc4212c97
+      internalID: 58664067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 340
+        width: 40
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da4bfe6d3c62848b20563f63df5d94
+      internalID: -1380981290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 341
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2479878c324ebcc44a051cc6bb625bf5
+      internalID: 1289186102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 247
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa61fa7321afd4e8cc7bda6ae7a459
+      internalID: 1459615443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 248
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5ec354282b37540979812c27833270
+      internalID: -1019283013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 244
+        width: 130
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d2b902c245404fb067186e994208e
+      internalID: 2118195589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 244
+        width: 120
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d7436514e0d84a9023993bf031c0c
+      internalID: -223260597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 240
+        width: 128
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3da6346f632f3438c18808edf89b03
+      internalID: -1643874538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 128
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a042ce38f636f645a1f800052b00da3
+      internalID: -448993868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 83
+        width: 193
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb289c2cdd71845a391bdca5275858
+      internalID: -1203986688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 84
+        width: 154
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71583f2ed28be0c45bd8019ab89b0c7c
+      internalID: -1376058060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 147
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1811db15f2197584486111bfc14e3f39
+      internalID: 181383738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 147
+        width: 54
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7174799cf57e5de4baa24400cd243699
+      internalID: -1320955681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 147
+        width: 63
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220953201e1095045b509aaade5e422a
+      internalID: 1207513935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 147
+        width: 66
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af22982b074dc4e9b5cdd538360f14
+      internalID: -506354025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 84
+        width: 60
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2929dcb0379694c46b93a5dbba8f198f
+      internalID: 408330492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 83
+        width: 61
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563ce5911f7f53846acc3179499902c5
+      internalID: 150654890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 83
+        width: 61
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f546774dc537824aaaed13f05c4197f
+      internalID: -925304828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 83
+        width: 62
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af718605563316844adc26c57e4254b4
+      internalID: -1088031516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 83
+        width: 60
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6589571a1e6514ab13ba33c9a1b46a
+      internalID: 214777759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e8ca0ca2bb73488c4d65b5aff8780
+      internalID: 372263612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e29115f21da44fa1b49fdf928793e
+      internalID: 143444966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 88
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660a99f08c2a034f8ab1a23577b4e4d
+      internalID: -425226929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 88
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1cc97074a8b904fad6ed8e9a8f1365
+      internalID: 88431659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 84
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa22990a7bb25534ba004843dd755522
+      internalID: 980341246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 84
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2fc4aa51ebf24f9a3e64ced89f6b0
+      internalID: -554596193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 86
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9d1a206cb21344ca2db7945de21a43
+      internalID: -1756426621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 85
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed4a6c7ebf70aa4fa3a7152f2446fb0
+      internalID: -215774854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 84
+        width: 19
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72d529f8e3ac448bfae9a9276203b9
+      internalID: 145574322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 85
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a2aab0b7ff3e4989599e6137cddb6
+      internalID: 771064316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 88
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430acef66fd04664e8eada3fef05e562
+      internalID: -1477497686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow-2D-Game-Tileset-Pixel-Art2 - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 85
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a02d4bbe08dbb4d9c5ef331c24879e
+      internalID: 451655246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_46: 181383738
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_7: -565898073
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_10: 50675631
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_20: 471929942
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_0: -1876182223
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_22: 1370366011
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_47: -1320955681
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_2: 969349204
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_55: 372263612
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_50: 408330492
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_19: -154963006
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_6: -1895002606
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_26: 1578061415
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_35: 58664067
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_30: -666647782
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_12: 2044433845
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_41: -223260597
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_4: -261259161
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_61: -1756426621
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_18: -260061822
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_39: -1019283013
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_32: 1609097704
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_45: -1376058060
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_8: 260928944
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_14: 55679213
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_5: -896844901
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_52: -925304828
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_38: 1459615443
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_40: 2118195589
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_64: 771064316
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_24: 1765857031
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_60: -554596193
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_36: -1380981290
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_23: 1319955720
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_3: -858578063
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_28: 2096014890
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_65: -1477497686
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_44: -1203986688
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_56: 143444966
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_21: -1477748641
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_66: 451655246
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_27: -2138958633
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_54: 214777759
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_51: 150654890
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_15: 1259703181
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_16: -295414483
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_37: 1289186102
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_25: -842943570
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_53: -1088031516
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_9: 768120730
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_63: 145574322
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_42: -1643874538
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_43: -448993868
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_34: -1026373472
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_17: -604484313
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_31: -394484306
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_1: 2051065333
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_48: 1207513935
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_11: -1165764639
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_59: 980341246
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_58: 88431659
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_33: 933423878
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_29: 350152847
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_49: -506354025
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_62: -215774854
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_57: -425226929
+      Snow-2D-Game-Tileset-Pixel-Art2 - Copy_13: -1276902094
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

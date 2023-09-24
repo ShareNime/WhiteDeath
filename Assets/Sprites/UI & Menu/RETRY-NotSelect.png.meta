@@ -1,0 +1,2247 @@
+fileFormatVersion: 2
+guid: 374f4ecd4b2432743b76b6bf56770ade
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RETRY-NotSelect_0
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 993
+        width: 461
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fca9b65afebae4f8cff76672495bb6
+      internalID: 1747385718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_1
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd26ff18540054a849a687db68dd82
+      internalID: 1273861893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_2
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1214
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f506bb7dd266478dae1ee82bf21e9
+      internalID: 714556557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_3
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1212
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0520620fc7a6840814e081199bc656
+      internalID: 122145615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1207
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ae4a55dcb4c74e82fc1f7e17d086f
+      internalID: 767495869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_5
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1191
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a259e7c4dac9f9542863620790b7191e
+      internalID: 107511492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_6
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1194
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e1dbc5d95bae84a8d23604939f4a0f
+      internalID: 1629474848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_7
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1196
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a04c40391b56a4c9091bdc72cba0be
+      internalID: 649243194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_8
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1171
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2979323f5b52b4c9524580ba1b8a20
+      internalID: 307351848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_9
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1188
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce18fabfa6a1347bedd6b34efcd2ea
+      internalID: -2107110817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_10
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1189
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd4e8cf07754b49a9e06670535d648
+      internalID: -1419648534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_11
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1187
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e96d1e9d465c449ae3b37355c77168
+      internalID: -970768939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_12
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1186
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2345bd567a4f8334aae8478f87f85554
+      internalID: -546869505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_13
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ae810356db7ff4dbabb803537dec89
+      internalID: -2099463442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_14
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1173
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e03e0333c439849aa7a4da7498dd3a
+      internalID: -2088940923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_15
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1160
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e303d89b9bd7f4488ca383faa541ea0
+      internalID: 1840191243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_16
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1161
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd81c6753b81bc4aa4b6eec2bed58e2
+      internalID: -1655232584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_17
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1166
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db116b0c56c32824fa903fc127eb29b9
+      internalID: -1186185867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_18
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1168
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a144702fc44e73b4b82476018a38ddeb
+      internalID: -220607615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1165
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a1c4c999cda2459961119227c49c2
+      internalID: 1380653550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_20
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1162
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75560e31ee148dc49bd25a37debe5aa2
+      internalID: 1293031925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_21
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1114
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8cc86041597c640825729b7feed50c
+      internalID: 1898124619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_22
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1154
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb7f99ba10fb84bb2a3e2e98cb452f
+      internalID: 532784071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_23
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1140
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e856ca51194944dbb0a7a6b8512495
+      internalID: -1734021135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_24
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1154
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b317007391bd4381fd157b1622b9f
+      internalID: -1342977966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_25
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c2638433c19d408a48b91b8154f6f
+      internalID: -1572778404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_26
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1112
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d00e7e4cef23264fa9034123899814c
+      internalID: -98774100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_27
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1111
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3138b0e710801b4b9085019d7262011
+      internalID: -815978188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_28
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69ad220bbc0c44b94ea31659899205
+      internalID: 1370367195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_29
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1126
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ace28380f4d3c478b2758ee72e9ad5
+      internalID: 399534771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_30
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1116
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d84080b5f6b54a94ea3ebc7fadb83
+      internalID: 92335232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_31
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d428b653189c64e88a6dccab6237b5
+      internalID: 1954643588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_32
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1110
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add0c4746a1696499d4f5f981a6fc25
+      internalID: -2118577698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_33
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1118
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dded38e668607749b98593b9f12d2c9
+      internalID: 1718452702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_34
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58b774abdfcce40aae2b1b074b65fe
+      internalID: 1342984732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_35
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1104
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f654077b6b47fa44b97258580afb346
+      internalID: -414241972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_36
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1108
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b9eb7248c8d164a8358505726c4e20
+      internalID: 1689410080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_37
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1099
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52038786cc806c4a8b49df5a7f1b49e
+      internalID: 579688824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_38
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1074
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0285a79af0a3c114eb0c1ceda8beb2e5
+      internalID: 11898675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_39
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1096
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1d181d429208647b5678e74fc36fbe
+      internalID: 1905365381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_40
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1102
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58143923c459d4fb0c122559f5fae7
+      internalID: 352623001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_41
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1089
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e234d5f55b1fd4c88e351112e6ae01
+      internalID: 849427623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_42
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1098
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b57665f2ecfb41818ef90f3a0b453
+      internalID: 16406221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_43
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1083
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f865d709729b44963fe5287f66d5b
+      internalID: 541627274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1045
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1142c9184dec72b43b8e8b36b9ecec0b
+      internalID: 1056428437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_45
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1050
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a22e3fe334eb343b8cd9efed098069
+      internalID: 2099351565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_46
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1041
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982fcc723baa4f8488ee8229a985d51b
+      internalID: -1590498220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_47
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1023
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9789d39fe0831124590b4ebae8268ac6
+      internalID: -892761348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_48
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1030
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846c88d5f9fcbbb4b828275686eb34b5
+      internalID: -1129947992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_49
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 954
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0155a67fa3759458606a2e5032ba91
+      internalID: 1547354619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_50
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 918
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a7a268426bd714798cd9799e4edf67
+      internalID: -1994882104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_51
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 931
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c438dc687a2e4eb480e8d4f63a3ee
+      internalID: -580014274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_52
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 907
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842bf1a24c107614da2d6518948c5eed
+      internalID: -1182562988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_53
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 912
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c37b4e625a00479607a1ae7b0d477
+      internalID: 640587712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_54
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 742
+        width: 461
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68710088cef02c741ac9af74944c7d46
+      internalID: -733328746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_55
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 872
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e881d1920e847e4a997a3c314794d59
+      internalID: -99886980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_56
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 756
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf5a5b4f2711b141bccf932ab777e87
+      internalID: 874712283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_57
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 705
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b80ad661d0e3b94399d5a77e0dbca89
+      internalID: -656128386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_58
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 703
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5f9e95ab7fc344d8b81b71d4e06b1b
+      internalID: -1214178345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_59
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 697
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7716fb2d783cf43a7c6b19f29e5061
+      internalID: -1600392508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_60
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 684
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4cbdd56ebd3ef41b0cfde1224a17bc
+      internalID: -1603653813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_61
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 694
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4ccd036ed63694ba29b102cc8975b6
+      internalID: 1911445392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_62
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 692
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160102c087e801140a1a3af4ad71967f
+      internalID: 556635943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_63
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 703
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835c9e04330cdb428c307732d2b0b53
+      internalID: 945405034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_64
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 684
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fc6095b23f41d45b3e6552eca59d90
+      internalID: 845920599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_65
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 699
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b0bbc50add7de4894c0820f25e7b03
+      internalID: -1427479670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_66
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 664
+        width: 135
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc016837874b6f2448911dfbff5bce6c
+      internalID: -1789420416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_67
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 695
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd8e6a2a80fdab49b8beee1eaaf240d
+      internalID: -1578967532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_68
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 697
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b572f2660b50b204999260aa34ac4b85
+      internalID: -362730767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_69
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 678
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef26c78a68e704bac59083ab887ae5
+      internalID: -670364323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_70
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 701
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6092b9f2a9255e84289494c5c390976f
+      internalID: -2108031822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_71
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 697
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3900cbba8b7c4994bac7d8cf0cdf120f
+      internalID: -796445240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_72
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 695
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7e41ad92510a44be4bbeb6c96c896
+      internalID: 412347293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_73
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 690
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232b9cae3d1fe294289eeeff02dca8f6
+      internalID: 1565516667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_74
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 689
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37731c1077d55b47b512b7e5cc3ba96
+      internalID: -1393280095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_75
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 692
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b702b6a9c171d41b28e15ef63811c9
+      internalID: 1135523929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_76
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 687
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90160554845cba4c8d4a1173c00862e
+      internalID: -1595867976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_77
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e966c0484385664583ec99483c469cd
+      internalID: 218653300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_78
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 691
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f3b163589844458ecbac66c9e8aed
+      internalID: -1218266406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_79
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 679
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e16eefc4fd684fbad0bcbbab5604e
+      internalID: -389974680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_80
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 682
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27df93d6baef14faaac250497dfe3d
+      internalID: 2110111876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_81
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 682
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ce39b36bd8b8a44b9e871e3a348baf
+      internalID: 999475446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_82
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 685
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c0a54ee525b349a6699477e308728
+      internalID: 1693955469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_83
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 680
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25217b680e585c458f2148875506810
+      internalID: 495662975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_84
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 680
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbf79db111b7fa4fbe594a818bed971
+      internalID: 1781624621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_85
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 685
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebbb0fed4f65824cb1df4707534c1c9
+      internalID: -1120724549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_86
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 678
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0525d3d57af102f458edbd045ecb89f3
+      internalID: -301530605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_87
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 677
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b002e4ae43d8db4e8730971ab8dda86
+      internalID: -536065565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_88
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 674
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8a64b4aaa417f48a168a7cd9c23728
+      internalID: -218577095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_89
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 673
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802527a82bd01294cbe5ca7ce91c4562
+      internalID: -1223552696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_90
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 667
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f19763dcad833a4a9b20381c073d698
+      internalID: 137000343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_91
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 663
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbbd800590a71149853ada8badb56c2
+      internalID: 459353757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_92
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 666
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bdd00df5ebcc04ca12dfe48fbbc2a2
+      internalID: -1632295610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_93
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 660
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8e50fcab27588478eb34f7e9b6b740
+      internalID: -650568760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_94
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 656
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f630d4b1d83c40b3d4f4e7be5c96a
+      internalID: -2066765348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETRY-NotSelect_95
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 658
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948190c034c1a5344a447a05cf03600c
+      internalID: 521855598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RETRY-NotSelect_15: 1840191243
+      RETRY-NotSelect_75: 1135523929
+      RETRY-NotSelect_63: 945405034
+      RETRY-NotSelect_28: 1370367195
+      RETRY-NotSelect_7: 649243194
+      RETRY-NotSelect_30: 92335232
+      RETRY-NotSelect_13: -2099463442
+      RETRY-NotSelect_87: -536065565
+      RETRY-NotSelect_0: 1747385718
+      RETRY-NotSelect_31: 1954643588
+      RETRY-NotSelect_42: 16406221
+      RETRY-NotSelect_14: -2088940923
+      RETRY-NotSelect_60: -1603653813
+      RETRY-NotSelect_65: -1427479670
+      RETRY-NotSelect_81: 999475446
+      RETRY-NotSelect_41: 849427623
+      RETRY-NotSelect_85: -1120724549
+      RETRY-NotSelect_83: 495662975
+      RETRY-NotSelect_89: -1223552696
+      RETRY-NotSelect_70: -2108031822
+      RETRY-NotSelect_56: 874712283
+      RETRY-NotSelect_22: 532784071
+      RETRY-NotSelect_39: 1905365381
+      RETRY-NotSelect_36: 1689410080
+      RETRY-NotSelect_25: -1572778404
+      RETRY-NotSelect_33: 1718452702
+      RETRY-NotSelect_95: 521855598
+      RETRY-NotSelect_45: 2099351565
+      RETRY-NotSelect_37: 579688824
+      RETRY-NotSelect_86: -301530605
+      RETRY-NotSelect_88: -218577095
+      RETRY-NotSelect_80: 2110111876
+      RETRY-NotSelect_49: 1547354619
+      RETRY-NotSelect_21: 1898124619
+      RETRY-NotSelect_78: -1218266406
+      RETRY-NotSelect_46: -1590498220
+      RETRY-NotSelect_40: 352623001
+      RETRY-NotSelect_84: 1781624621
+      RETRY-NotSelect_2: 714556557
+      RETRY-NotSelect_79: -389974680
+      RETRY-NotSelect_24: -1342977966
+      RETRY-NotSelect_47: -892761348
+      RETRY-NotSelect_67: -1578967532
+      RETRY-NotSelect_5: 107511492
+      RETRY-NotSelect_9: -2107110817
+      RETRY-NotSelect_77: 218653300
+      RETRY-NotSelect_53: 640587712
+      RETRY-NotSelect_19: 1380653550
+      RETRY-NotSelect_54: -733328746
+      RETRY-NotSelect_50: -1994882104
+      RETRY-NotSelect_57: -656128386
+      RETRY-NotSelect_3: 122145615
+      RETRY-NotSelect_11: -970768939
+      RETRY-NotSelect_58: -1214178345
+      RETRY-NotSelect_12: -546869505
+      RETRY-NotSelect_8: 307351848
+      RETRY-NotSelect_69: -670364323
+      RETRY-NotSelect_71: -796445240
+      RETRY-NotSelect_44: 1056428437
+      RETRY-NotSelect_73: 1565516667
+      RETRY-NotSelect_26: -98774100
+      RETRY-NotSelect_51: -580014274
+      RETRY-NotSelect_91: 459353757
+      RETRY-NotSelect_90: 137000343
+      RETRY-NotSelect_34: 1342984732
+      RETRY-NotSelect_1: 1273861893
+      RETRY-NotSelect_52: -1182562988
+      RETRY-NotSelect_32: -2118577698
+      RETRY-NotSelect_92: -1632295610
+      RETRY-NotSelect_76: -1595867976
+      RETRY-NotSelect_29: 399534771
+      RETRY-NotSelect_23: -1734021135
+      RETRY-NotSelect_62: 556635943
+      RETRY-NotSelect_72: 412347293
+      RETRY-NotSelect_61: 1911445392
+      RETRY-NotSelect_6: 1629474848
+      RETRY-NotSelect_48: -1129947992
+      RETRY-NotSelect_68: -362730767
+      RETRY-NotSelect_38: 11898675
+      RETRY-NotSelect_55: -99886980
+      RETRY-NotSelect_16: -1655232584
+      RETRY-NotSelect_27: -815978188
+      RETRY-NotSelect_59: -1600392508
+      RETRY-NotSelect_64: 845920599
+      RETRY-NotSelect_43: 541627274
+      RETRY-NotSelect_20: 1293031925
+      RETRY-NotSelect_35: -414241972
+      RETRY-NotSelect_17: -1186185867
+      RETRY-NotSelect_82: 1693955469
+      RETRY-NotSelect_93: -650568760
+      RETRY-NotSelect_94: -2066765348
+      RETRY-NotSelect_4: 767495869
+      RETRY-NotSelect_10: -1419648534
+      RETRY-NotSelect_66: -1789420416
+      RETRY-NotSelect_18: -220607615
+      RETRY-NotSelect_74: -1393280095
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

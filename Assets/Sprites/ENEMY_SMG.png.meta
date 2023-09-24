@@ -1,0 +1,1962 @@
+fileFormatVersion: 2
+guid: 07be164129d714a4487fbac00536b2ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ENEMY_SMG_0
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 4843
+        width: 581
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb365a36f65bf4d934e0ffa70bef29
+      internalID: 710831543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_1
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 4838
+        width: 115
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91f8a0879914694880b74c5b011f0bf
+      internalID: 1247980352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4530
+        width: 561
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416a39d1f892e1d4e8edb42f46b830a2
+      internalID: -1423279639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4283
+        width: 346
+        height: 489
+      alignment: 9
+      pivot: {x: 0.6570371, y: 0.120124176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ccf6941b422b04dabf797a6722f6f4
+      internalID: 584320118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_4
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 4283
+        width: 349
+        height: 479
+      alignment: 9
+      pivot: {x: 0.67281485, y: 0.11288777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6995ee581df67f43b62ad71d0dede5b
+      internalID: -115479040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_5
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 4283
+        width: 354
+        height: 474
+      alignment: 9
+      pivot: {x: 0.6703743, y: 0.1053029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2258d0916c901824482a70c1e94df5a7
+      internalID: -633808714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_6
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 4283
+        width: 361
+        height: 489
+      alignment: 9
+      pivot: {x: 0.61522084, y: 0.08506079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eedaa99134b414fb6a5b997b9d938d
+      internalID: -1712707680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_7
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 4283
+        width: 352
+        height: 479
+      alignment: 9
+      pivot: {x: 0.64770925, y: 0.11288777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4f6e519f112d54fbb2bbed2461aec7
+      internalID: -1114781421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_8
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 4283
+        width: 354
+        height: 474
+      alignment: 9
+      pivot: {x: 0.6409995, y: 0.10091558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08629fd2169bd2b4daa1b270e20dafea
+      internalID: -1707268498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_9
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 4283
+        width: 348
+        height: 489
+      alignment: 9
+      pivot: {x: 0.64343053, y: 0.11908571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1069f718aca0bc438ced4ea6c13f26a
+      internalID: 607478423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4447
+        width: 632
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59af4b6b36891340a14d054c2ee561e
+      internalID: 227036132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_11
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 4293
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6332f241aa4a5884ba36e87f8f7166ba
+      internalID: 175368859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_12
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 4289
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfad671acd5d2b4b9613dd2e2d6d2cc
+      internalID: 2056833657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_13
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 4289
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebefd9d545b0c324fbf88ada880eb1a0
+      internalID: 1613747321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_14
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 4289
+        width: 8
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a6a86ed8191445808499d56d37dc6
+      internalID: -1424642601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_15
+      rect:
+        serializedVersion: 2
+        x: 4133
+        y: 4289
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12061e184cc54a14bbc231c13e419e04
+      internalID: 2092180981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_16
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 4132
+        width: 703
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c389ef63ab60ab6488c538d5482e3645
+      internalID: -1308368454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3895
+        width: 615
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575240893583cdb4cba51cbce5312991
+      internalID: 1325435408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_18
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3624
+        width: 354
+        height: 489
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bebdc547bdc5e42a5f45ef06de584e
+      internalID: 156121913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_19
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3624
+        width: 354
+        height: 479
+      alignment: 9
+      pivot: {x: 0.32962638, y: 0.095520146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a23e10280769c84584003261b9335a0
+      internalID: -1934351504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_20
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 3624
+        width: 359
+        height: 469
+      alignment: 9
+      pivot: {x: 0.38413724, y: 0.10199144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea602f75b13ddce4cb6aa6bb760ac85a
+      internalID: 900598454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_21
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 3624
+        width: 349
+        height: 489
+      alignment: 9
+      pivot: {x: 0.3688993, y: 0.102073245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed08a0d472b8743af71b6b5cfab0a4
+      internalID: -645501249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_22
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 3624
+        width: 354
+        height: 479
+      alignment: 9
+      pivot: {x: 0.36487576, y: 0.104204215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d697316c3d27f4092f05e5c42e3c10
+      internalID: 1726743248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_23
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 3624
+        width: 354
+        height: 469
+      alignment: 9
+      pivot: {x: 0.35312596, y: 0.119728856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f05f3b7a5bd0e4aab465b779f96313
+      internalID: 1239287220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_24
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 3624
+        width: 359
+        height: 489
+      alignment: 9
+      pivot: {x: 0.34937882, y: 0.09782001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3708e242f4723c4d9783ed111363538
+      internalID: 2025030837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3812
+        width: 632
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce126f45b2ac1e44c9ce5c3987c8c70e
+      internalID: -206802829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_26
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3628
+        width: 9
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa7f1c45c4d9a4b882e805e1ae9020
+      internalID: -1604995222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_27
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 3628
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda947582ae68e4e81da95219aea79e
+      internalID: 2145197512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_28
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3378
+        width: 72
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd61f9ab6b9534f9f5196030e1c1c4
+      internalID: 993005246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_29
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 3060
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74e717b3406a6f40b602526db2f79a1
+      internalID: 289713735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_30
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3060
+        width: 51
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247b0c44e16275546a64c52ef508baeb
+      internalID: 1233711093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_31
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3060
+        width: 26
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984ff68b03793c49b920707b3b19714
+      internalID: -1306622967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_32
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 3060
+        width: 56
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67267cb61d14ac24fa23c1ea33100110
+      internalID: -442449425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_33
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 3060
+        width: 50
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8890720400a2d2b498cddc90937b9554
+      internalID: -1335879692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_34
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 3060
+        width: 29
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca6f0352d9b7e4c828764f6bad16b2
+      internalID: 7020150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_35
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2963
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff5f3ebe915c241b5fca7d73827581
+      internalID: -818622168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_36
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2435
+        width: 220
+        height: 579
+      alignment: 9
+      pivot: {x: 0.5212996, y: 0.06879031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edb3d19feefcfa44ae757f33dc5668a
+      internalID: -1723171211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_37
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2435
+        width: 217
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5107973, y: 0.08384216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1c7e46f7fd994bb33a7d57dbdf8bc
+      internalID: -1693147548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_38
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2435
+        width: 212
+        height: 484
+      alignment: 9
+      pivot: {x: 0.49447516, y: 0.08713349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691269278fc46ba4483e7f6673ebb459
+      internalID: -512558699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_39
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2435
+        width: 212
+        height: 503
+      alignment: 9
+      pivot: {x: 0.48894918, y: 0.10713162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc554aaae0da884fbe1de9d08463038
+      internalID: -1580605536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_40
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2435
+        width: 212
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5386813, y: 0.08863802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9041e2263f0b43a739e3a24adc392
+      internalID: 1388448033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_41
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 2435
+        width: 209
+        height: 493
+      alignment: 9
+      pivot: {x: 0.52242124, y: 0.09504746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6f562e3e4822744a56388bee08ed61
+      internalID: 1951377175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_42
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 2435
+        width: 432
+        height: 503
+      alignment: 9
+      pivot: {x: 0.6789726, y: 0.09082905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09db4c920fdfa5246ba70b81c3430f61
+      internalID: 762477474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_43
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 2435
+        width: 506
+        height: 503
+      alignment: 9
+      pivot: {x: 0.73845834, y: 0.09082905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa992bc4005844a4c9c87af92e891266
+      internalID: -389769844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_45
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 2435
+        width: 412
+        height: 513
+      alignment: 9
+      pivot: {x: 0.6640039, y: 0.093625315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da8499050a39c429c8259c3824bd49
+      internalID: 12203522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2648
+        width: 728
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da17692b181dc6540b0b1055785a246a
+      internalID: 1473188927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_47
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 2711
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a39a07b68cc3e4ca4a7d686e2f75ef
+      internalID: 14582207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_48
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2448
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d6f36e6f27b1458441cc9a7eb5d1a
+      internalID: -2064581705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_49
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2448
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d82190d07d8964cb23030372d4fad2
+      internalID: -662262205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_50
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2448
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12dc05a4dcc43f48994e6a935c93862
+      internalID: 2091631763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_51
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2458
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883db602cce152042b7f7ab3974d9d34
+      internalID: 538639191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_52
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2453
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e433ea0713e74d9907f1a2954dd4d
+      internalID: 1117163026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_53
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2453
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb521e81af53227408e6c8452de67a77
+      internalID: 1085248180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1869
+        width: 476
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afea354a2a1918a44b98c3e3bf5bde92
+      internalID: -1616058897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_55
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1659
+        width: 359
+        height: 483
+      alignment: 9
+      pivot: {x: 0.6501275, y: 0.08583489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b83d106a6f24644a8a6fdb3efaccc8
+      internalID: 495776364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_56
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1659
+        width: 361
+        height: 493
+      alignment: 9
+      pivot: {x: 0.6033584, y: 0.08409382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df79ec67290d770439c23d33992e316f
+      internalID: 1347220789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_57
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 1659
+        width: 349
+        height: 493
+      alignment: 9
+      pivot: {x: 0.35744914, y: 0.08409382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dafb3abebe07414e8b57eafb423f23f
+      internalID: 1543784062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_58
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1659
+        width: 352
+        height: 483
+      alignment: 9
+      pivot: {x: 0.33510798, y: 0.09012681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cffca86bb91804ab79675ce01f49a4
+      internalID: -815208038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_59
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1786
+        width: 415
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90114f8665ef1514998d731dd83e707f
+      internalID: -1066866101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_60
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1786
+        width: 217
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a83df684339a9a4e8203f2eb04f71b7
+      internalID: 998887364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_61
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 1808
+        width: 81
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ada6726433924a85e5dc28f6ac10b
+      internalID: 569162862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_62
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 1858
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9902b75e66cd1754e9ba7dac58ae83fa
+      internalID: -991591936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_63
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 1853
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091e0df21373f243879107785d4a9fe
+      internalID: 1150377705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_64
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1679
+        width: 364
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462ad33b5ed01214c850c1067b5932a5
+      internalID: 884541002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_65
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 1679
+        width: 455
+        height: 462
+      alignment: 9
+      pivot: {x: 0.54195786, y: 0.14883588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af3115dc43d8e549a93f734ad144028
+      internalID: 89228259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_66
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 1671
+        width: 471
+        height: 473
+      alignment: 9
+      pivot: {x: 0.48129395, y: 0.13615367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0741ff9ca1b7c49ab3ce387df00517
+      internalID: -1466495235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_67
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 1368
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566d3f638ba6eb4d843acc1e954af65
+      internalID: -1137911680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_68
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 1088
+        width: 583
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7680928f9a0aba49a1f65cc4f7c1cba
+      internalID: -1651252076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 766
+        width: 562
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cceccf56ff5ac4abee77aefe081d22
+      internalID: -336804343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_70
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 521
+        width: 359
+        height: 476
+      alignment: 9
+      pivot: {x: 0.62125665, y: 0.06967766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7fe4e4a72be943bc12b34a6dbef5b
+      internalID: 1790573930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_71
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 521
+        width: 344
+        height: 471
+      alignment: 9
+      pivot: {x: 0.6385956, y: 0.07041734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a221f39e8f2346f40890866584f95964
+      internalID: 1064826658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_72
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 521
+        width: 369
+        height: 462
+      alignment: 9
+      pivot: {x: 0.6067351, y: 0.08076272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47b46c6ae034aa42bdd4d752266e2a3
+      internalID: 1114892595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_73
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 521
+        width: 371
+        height: 452
+      alignment: 9
+      pivot: {x: 0.58381, y: 0.06420521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1520e5567a4638645890d20e0e94f98a
+      internalID: -756525973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_74
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 521
+        width: 359
+        height: 476
+      alignment: 9
+      pivot: {x: 0.61704195, y: 0.07414925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55413d1eb66b98f49838e8f0620339aa
+      internalID: -2040546535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_75
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 521
+        width: 349
+        height: 471
+      alignment: 9
+      pivot: {x: 0.6396589, y: 0.078504816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca87ea229c35184449a4a557c81bbee1
+      internalID: 1687423661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_76
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 521
+        width: 368
+        height: 462
+      alignment: 9
+      pivot: {x: 0.6278812, y: 0.0763962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e90320a4554a42a99eb342bef4938
+      internalID: -1195093302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_77
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 523
+        width: 371
+        height: 452
+      alignment: 9
+      pivot: {x: 0.58154494, y: 0.059494827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b26d41c115ae48aee97ce2a4cc7c5
+      internalID: -1303708324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_78
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 521
+        width: 337
+        height: 486
+      alignment: 9
+      pivot: {x: 0.6047342, y: 0.07608183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf3d28a93fd6db4faf60da917939e3c
+      internalID: 125706196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 661
+        width: 632
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d27d8f019be3840a01f498fbb18c7f
+      internalID: -1417379667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_80
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 519
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb037460e902ce249b3d58af16d8f85b
+      internalID: 1324647845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_81
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 508
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40609ae0917d5af44b738f53fc1f0736
+      internalID: -915992298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_82
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 519
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424bd01856930c4b9b6e1e3cd2469fd
+      internalID: -2039128492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMY_SMG_83
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 508
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e042bb4742c664682d2e17b8aa78ab
+      internalID: 1119634053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ENEMY_SMG_83: 1119634053
+      ENEMY_SMG_19: -1934351504
+      ENEMY_SMG_39: -1580605536
+      ENEMY_SMG_3: 584320118
+      ENEMY_SMG_2: -1423279639
+      ENEMY_SMG_81: -915992298
+      ENEMY_SMG_16: -1308368454
+      ENEMY_SMG_48: -2064581705
+      ENEMY_SMG_74: -2040546535
+      ENEMY_SMG_33: -1335879692
+      ENEMY_SMG_25: -206802829
+      ENEMY_SMG_65: 89228259
+      ENEMY_SMG_73: -756525973
+      ENEMY_SMG_17: 1325435408
+      ENEMY_SMG_11: 175368859
+      ENEMY_SMG_71: 1064826658
+      ENEMY_SMG_43: -389769844
+      ENEMY_SMG_4: -115479040
+      ENEMY_SMG_42: 762477474
+      ENEMY_SMG_40: 1388448033
+      ENEMY_SMG_66: -1466495235
+      ENEMY_SMG_56: 1347220789
+      ENEMY_SMG_78: 125706196
+      ENEMY_SMG_37: -1693147548
+      ENEMY_SMG_54: -1616058897
+      ENEMY_SMG_59: -1066866101
+      ENEMY_SMG_36: -1723171211
+      ENEMY_SMG_22: 1726743248
+      ENEMY_SMG_61: 569162862
+      ENEMY_SMG_57: 1543784062
+      ENEMY_SMG_53: 1085248180
+      ENEMY_SMG_1: 1247980352
+      ENEMY_SMG_31: -1306622967
+      ENEMY_SMG_60: 998887364
+      ENEMY_SMG_45: 12203522
+      ENEMY_SMG_28: 993005246
+      ENEMY_SMG_50: 2091631763
+      ENEMY_SMG_72: 1114892595
+      ENEMY_SMG_0: 710831543
+      ENEMY_SMG_58: -815208038
+      ENEMY_SMG_9: 607478423
+      ENEMY_SMG_18: 156121913
+      ENEMY_SMG_62: -991591936
+      ENEMY_SMG_12: 2056833657
+      ENEMY_SMG_69: -336804343
+      ENEMY_SMG_27: 2145197512
+      ENEMY_SMG_35: -818622168
+      ENEMY_SMG_44: 737737308
+      ENEMY_SMG_77: -1303708324
+      ENEMY_SMG_13: 1613747321
+      ENEMY_SMG_68: -1651252076
+      ENEMY_SMG_79: -1417379667
+      ENEMY_SMG_82: -2039128492
+      ENEMY_SMG_70: 1790573930
+      ENEMY_SMG_51: 538639191
+      ENEMY_SMG_10: 227036132
+      ENEMY_SMG_32: -442449425
+      ENEMY_SMG_8: -1707268498
+      ENEMY_SMG_34: 7020150
+      ENEMY_SMG_23: 1239287220
+      ENEMY_SMG_26: -1604995222
+      ENEMY_SMG_7: -1114781421
+      ENEMY_SMG_20: 900598454
+      ENEMY_SMG_24: 2025030837
+      ENEMY_SMG_15: 2092180981
+      ENEMY_SMG_67: -1137911680
+      ENEMY_SMG_29: 289713735
+      ENEMY_SMG_5: -633808714
+      ENEMY_SMG_41: 1951377175
+      ENEMY_SMG_21: -645501249
+      ENEMY_SMG_52: 1117163026
+      ENEMY_SMG_64: 884541002
+      ENEMY_SMG_80: 1324647845
+      ENEMY_SMG_76: -1195093302
+      ENEMY_SMG_46: 1473188927
+      ENEMY_SMG_55: 495776364
+      ENEMY_SMG_6: -1712707680
+      ENEMY_SMG_30: 1233711093
+      ENEMY_SMG_75: 1687423661
+      ENEMY_SMG_14: -1424642601
+      ENEMY_SMG_38: -512558699
+      ENEMY_SMG_49: -662262205
+      ENEMY_SMG_47: 14582207
+      ENEMY_SMG_63: 1150377705
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

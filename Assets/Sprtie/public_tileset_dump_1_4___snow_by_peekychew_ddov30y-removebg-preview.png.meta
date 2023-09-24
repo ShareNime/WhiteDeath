@@ -1,0 +1,1301 @@
+fileFormatVersion: 2
+guid: 62f346cb24f9dc74eb9dab6eb631c060
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 304
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b6fe98eb0ff4479dccb4094d807bf
+      internalID: 1938944895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bea66d759aef44281d24d518684e46
+      internalID: 125759468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 305
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb3772923884a40a7a80e346f078de
+      internalID: -1379818873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e143fa7f729dc543a3f0c0ea73d9dbe
+      internalID: 826176645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66105305321be024c8425c985921d9b7
+      internalID: 505072500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca58e83399063746a65d2d926c64b1a
+      internalID: 1304761372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 283
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e91b00567e4ef846b94b0f29a0b1a3e
+      internalID: -54495212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 272
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b3f916a303c2c439172c8079e14726
+      internalID: 899181571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 272
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157acc544777a6b4fa0e84ce97cee1dc
+      internalID: 672838603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 280
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6718a1b767e8bc544807661782d6cb00
+      internalID: 1173855060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 284
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c25ccf94940b444833cab4ea8db32e
+      internalID: 1504001337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2235f0d15a1687c438b25f9b41624d79
+      internalID: 722698820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f190a70e64443744c961d1f4baa1d2e3
+      internalID: -814202942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891c4c92f5e0b8148957c8979195f074
+      internalID: 1122615518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d2048149623741835842b2977c466
+      internalID: -913206163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 274
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bed2af1a20c6e4a9077a1785309e20
+      internalID: 255558736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a587f3d757fb428cb57744513c895
+      internalID: -1036480177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 257
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5510fbc5667c704d971bc7a6bb134ed
+      internalID: 1401455601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 257
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e469656fa9c84ebaa583a14860b14
+      internalID: -974481621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 257
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f7ffa08bf2054cb7867f52e18ba0f
+      internalID: -1477432352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 258
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e61c0c5f9441241b8277288f8ff004
+      internalID: 1445483600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 208
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb434bc385c01947a9a396fb176aef1
+      internalID: -1527088400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 208
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a6f70d00a5974e89430bbed77216b
+      internalID: -1131946672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 208
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267ca5b2f6c4fc4db4752c3fcf00b83
+      internalID: -1693434029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 209
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48da2d58dbd6e428f69d10e72d9f36
+      internalID: -129123081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae925e6e573c7d24ca7cf87e11d75a7b
+      internalID: 1794487114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 220
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd07da154e03644b4cb25fd23cc21b
+      internalID: -596809294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 208
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f03ebe7012414f4cafa5ebb4d7b6a49
+      internalID: -1448948819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 217
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f20f4dc881b342a510267d6e25f0c
+      internalID: 955855954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 220
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177c8c0f5d893040b80d20f930d083c
+      internalID: -1833352887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 134
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6eba80183552b48b9d56c9af4f3591
+      internalID: -1458869826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 137
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21c150b1f727d41ad387d68c8016e2
+      internalID: 1113335401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66a19877739e1f43b74504888b41965
+      internalID: 2045107506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 156
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075ab4767ec269947b0218ff9631a9ec
+      internalID: 963837381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 144
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8129538663d558d4cac59d7c3092e565
+      internalID: 218891857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62a2bc49232434c875bfbb6e95e141
+      internalID: 65919856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d52d211a9219d4a99e258506c86da5
+      internalID: 448806827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 156
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0385718970a90d4c9fa3aa4761c8ba9
+      internalID: 529193376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384015d0f6e9f043af9d1ef2c7cd2ed
+      internalID: 1579044986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4b8856d7493641a6efe3ad25c0b87
+      internalID: 341111060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 71
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1552c8daf05447ba7f600bf0cafed
+      internalID: 386447753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c7402d38f131148888ab3ad892ae09
+      internalID: -676936874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77caa3c74c639444598e8cd979305a03
+      internalID: 840052105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 92
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b673f689740f2044099bd04306ea85d9
+      internalID: -1424781224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 80
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eacaf474629c943b6054ba29d9692d
+      internalID: -452755319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00d74207ccf2e74e9a5a8b8c5c87d30
+      internalID: -45813041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 17
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e604c64489e9547bf70b7aba4d4abc
+      internalID: -1927035792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3e4924513add5499c7ecb09e89dc23
+      internalID: -1134783906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa048c6b0f0ca648874201ce39f69b6
+      internalID: 1210590799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1458cce31bcd6468c096b2ee6001d4
+      internalID: 2078377830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 28
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1be229c69e13d46950d4298e4947f8
+      internalID: -1114697759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 15
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439ef64102ae9f47bf7dae1ced9d876
+      internalID: -2072009435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905e1f8926b108498bc1b97f89d4155
+      internalID: 1831956973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_14: -913206163
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_41: -676936874
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_48: 1210590799
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_43: -1424781224
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_23: -1693434029
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_24: -129123081
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_42: 840052105
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_52: 1831956973
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_11: 722698820
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_20: 1445483600
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_12: -814202942
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_0: 1938944895
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_8: 672838603
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_17: 1401455601
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_38: 1579044986
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_5: 1304761372
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_4: 505072500
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_7: 899181571
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_13: 1122615518
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_51: -2072009435
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_49: 2078377830
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_18: -974481621
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_35: 65919856
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_10: 1504001337
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_34: 218891857
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_21: -1527088400
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_33: 963837381
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_37: 529193376
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_15: 255558736
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_2: -1379818873
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_22: -1131946672
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_40: 386447753
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_30: -1458869826
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_46: -1927035792
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_44: -452755319
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_1: 125759468
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_6: -54495212
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_25: 1794487114
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_16: -1036480177
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_9: 1173855060
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_26: -596809294
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_3: 826176645
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_50: -1114697759
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_27: -1448948819
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_28: 955855954
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_47: -1134783906
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_31: 1113335401
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_29: -1833352887
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_19: -1477432352
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_36: 448806827
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_45: -45813041
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_32: 2045107506
+      public_tileset_dump_1_4___snow_by_peekychew_ddov30y-removebg-preview_39: 341111060
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

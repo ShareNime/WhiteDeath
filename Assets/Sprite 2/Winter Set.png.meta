@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: a85bfb6cc7fd6b14199eafdf4a3119c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 384
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -31.5, y: 16}
+        - {x: -31.5, y: -16}
+        - {x: 31.5, y: -15}
+        - {x: 31.5, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02859121ce4348b488076ae9b8a6c6f9
+      internalID: -976756017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 31}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03036d26b1179204db6a92ce0fecfdbb
+      internalID: 1374480346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 64
+        height: 62
+      alignment: 9
+      pivot: {x: 0.49580872, y: 0.16684304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -1}
+        - {x: -28, y: -8}
+        - {x: -20, y: -25}
+        - {x: 19, y: -25}
+        - {x: 28, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73765c6abc9703145816a7fec983b42b
+      internalID: 1274970461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 64
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4687426, y: 0.13937378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: -18, y: -23}
+        - {x: -18, y: -32}
+        - {x: 0, y: -43}
+        - {x: 17, y: -34}
+        - {x: 17, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe48743a9de75488dc7b061f35e9f0
+      internalID: -1187151892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 64
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074d58579974ed546952f5c1b58cc0d1
+      internalID: -1753598724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0033396a4101044a7e94a09ef97516
+      internalID: 941850755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b5bfa5ed685c448bb876ee98e96ae6
+      internalID: 137225417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f36323fd4a344946989f3d1af743dd3
+      internalID: -1265101676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e1634747506da43824f961d641e3aa
+      internalID: -622626530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b709e6b0d22152246b3d2c6aa6bd187a
+      internalID: 2107643206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fd2b9a15196fa44bc315f90e7c9fab
+      internalID: 2062358404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c02848b3718214088266ef553320fe
+      internalID: 1792634843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 288
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4895811, y: 0.11796856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -22}
+        - {x: -12, y: -26}
+        - {x: -12, y: -37}
+        - {x: 0, y: -42}
+        - {x: 12, y: -37}
+        - {x: 12, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6de6b6853004d4d842390c3634ba7e
+      internalID: 1972718189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b82bd20101ff1468f5430b81860c61
+      internalID: 183035129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 414
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5febf63646f30049acb83389dde0974
+      internalID: -1958824810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 416
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2199861db531674dbc57865c12f5e25
+      internalID: 25989868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3045e756d995548b86d49fe99f6b9e
+      internalID: 433118077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb0e92238e3a6429a61c6de3d94335
+      internalID: -1387264713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 736
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc967c16e315e942aeb9cb97a9352f3
+      internalID: -2016527555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winter_biome_tileset_by_katanakiri98_dcmuwks_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 702
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2980636ff57c7d408ad93ad7fc58e7b
+      internalID: -690073710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winter Set_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 609
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48716116, y: 0.20844688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a0c5fbc84f5e042ae7a366e7988503
+      internalID: 140106758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      winter_biome_tileset_by_katanakiri98_dcmuwks_6: 941850755
+      winter_biome_tileset_by_katanakiri98_dcmuwks_11: 2062358404
+      winter_biome_tileset_by_katanakiri98_dcmuwks_0: -2078592601
+      winter_biome_tileset_by_katanakiri98_dcmuwks_2: 1374480346
+      winter_biome_tileset_by_katanakiri98_dcmuwks_4: -1187151892
+      winter_biome_tileset_by_katanakiri98_dcmuwks_16: 25989868
+      winter_biome_tileset_by_katanakiri98_dcmuwks_7: 137225417
+      Winter Set_0: 140106758
+      winter_biome_tileset_by_katanakiri98_dcmuwks_8: -1265101676
+      winter_biome_tileset_by_katanakiri98_dcmuwks_1: -976756017
+      winter_biome_tileset_by_katanakiri98_dcmuwks_9: -622626530
+      winter_biome_tileset_by_katanakiri98_dcmuwks_13: 1972718189
+      winter_biome_tileset_by_katanakiri98_dcmuwks_18: -1387264713
+      winter_biome_tileset_by_katanakiri98_dcmuwks_3: 1274970461
+      winter_biome_tileset_by_katanakiri98_dcmuwks_20: -690073710
+      winter_biome_tileset_by_katanakiri98_dcmuwks_12: 1792634843
+      winter_biome_tileset_by_katanakiri98_dcmuwks_19: -2016527555
+      winter_biome_tileset_by_katanakiri98_dcmuwks_10: 2107643206
+      winter_biome_tileset_by_katanakiri98_dcmuwks_17: 433118077
+      winter_biome_tileset_by_katanakiri98_dcmuwks_5: -1753598724
+      winter_biome_tileset_by_katanakiri98_dcmuwks_14: 183035129
+      winter_biome_tileset_by_katanakiri98_dcmuwks_15: -1958824810
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
